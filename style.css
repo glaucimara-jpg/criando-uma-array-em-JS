@@ -1,0 +1,25 @@
+#namedojogador
+{
+	font-size: 20px;
+}
+
+#submitButton
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+	size: 30px;
+	
+}
+
+
+
+#displayName
+{
+    font-size: 20px;
+	border: 1px solid green;
+    padding: 10px;
+	background-color: greenyellow;
+	border-radius: 10px;
+    width: 50%;
+}
+
